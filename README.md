@@ -1,3 +1,3 @@
-# test
+# Welcome
 
-#day 1 of the beginning.
+#Here you'll find some of the projects I've worked on
